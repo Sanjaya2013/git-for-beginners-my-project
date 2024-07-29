@@ -1,1 +1,3 @@
-welcome to myFirstGitProject
+welcome to myFirstGitProject!
+
+Author: sanjaya TM
