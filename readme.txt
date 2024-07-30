@@ -1,6 +1,8 @@
 git stsgwelcome to myFirstGitProject!
 
-Author: sanjaya nittur
+Author: sanjaya tm nittur
+
+
 
 123
 
