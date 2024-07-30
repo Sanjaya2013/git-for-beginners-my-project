@@ -1,4 +1,4 @@
-git stsgwelcome to myFirstGitProject!
+welcome to myFirstGitProject!
 
 Author: sanjaya tm nittur
 
