@@ -1,6 +1,6 @@
 welcome to myFirstGitProject!
 
-Author: sanjaya TM
+Author: sanjaya tm
 
 123
 
